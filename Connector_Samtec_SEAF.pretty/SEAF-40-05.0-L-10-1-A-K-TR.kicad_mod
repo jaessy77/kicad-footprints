@@ -1,4 +1,4 @@
-(module SEAF-40-05.0-L-10-1-A-K-TR (layer F.Cu) (tedit 5D5AA152)
+(module SEAF-40-05.0-L-10-1-A-K-TR (layer F.Cu) (tedit 5D5BA4F3)
   (descr "SEAF-40-05.0-L-10-1-A-K-TR, 21.2x13.28mm, 400 Ball, 40x10 Layout, 1.27x1.27mm Pitch, http://suddendocs.samtec.com/prints/seaf-xx-xx.x-xx-xx-x-a-xx-footprint.pdf")
   (tags "SEAF-40-05.0-L-10-1-A-K-TR 400 1.27x1.27")
   (attr smd)
