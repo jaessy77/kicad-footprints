@@ -1,4 +1,4 @@
-(module LED_PLCC-2 (layer F.Cu) (tedit 59959404)
+(module LED_PLCC-2 (layer F.Cu) (tedit 5D4446A8)
   (descr "LED PLCC-2 SMD package")
   (tags "LED PLCC-2 SMD")
   (attr smd)
