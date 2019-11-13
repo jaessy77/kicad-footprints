@@ -1,5 +1,5 @@
-(module LEMO_ECB.0B.305.CLN (layer F.Cu) (tedit 5DCAB2BC)
-  (descr "LEMO Fixed receptacle with two nuts and straight contact for printed circuit (back panel mounting), female")
+(module LEMO_ECB.0B.305.CLN (layer F.Cu) (tedit 5DCBA924)
+  (descr "LEMO Fixed receptacle with two nuts and straight contact for printed circuit (back panel mounting), female, https://www.lemo.com/pdf/ECB.0B.305.CLN.pdf")
   (tags "LEMO E-Series")
   (fp_text reference REF** (at 0 -5.588) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
