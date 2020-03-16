@@ -1,4 +1,4 @@
-(module L_6.3x6.3_H3 (layer F.Cu) (tedit 5990349C)
+(module L_6.3x6.3_H3 (layer F.Cu) (tedit 5E67A004)
   (descr "Choke, SMD, 6.3x6.3mm 3mm height")
   (tags "Choke SMD")
   (attr smd)
@@ -35,5 +35,10 @@
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Inductor_SMD.3dshapes/IHLP2525CZ.STEP
+    (offset (xyz -1.5 5.3 -2.4))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
   )
 )
