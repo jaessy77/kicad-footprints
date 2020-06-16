@@ -1,4 +1,4 @@
-(module D_SMF (layer F.Cu) (tedit 5D31F510)
+(module D_SMF (layer F.Cu) (tedit 5EDF48E1)
   (descr "Diode SMF (DO-219AB), http://www.vishay.com/docs/95572/smf_do-219ab.pdf")
   (tags "Diode SMF (DO-214AB)")
   (attr smd)
@@ -31,6 +31,11 @@
   (pad 1 smd rect (at -1.45 0) (size 1.3 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.45 0) (size 1.3 1.4) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SMF.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model ${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
