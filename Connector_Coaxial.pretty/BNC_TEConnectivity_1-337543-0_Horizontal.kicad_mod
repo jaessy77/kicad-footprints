@@ -1,4 +1,4 @@
-(module BNC_TEConnectivity_1-337543-0_Horizontal (layer F.Cu) (tedit 5EE0A0A1)
+(module BNC_TEConnectivity_1-337543-0_Horizontal (layer F.Cu) (tedit 5EF076C1)
   (descr "BNC Connector TE  50Ohm 4GHz Right Angle")
   (tags "BNC Connector TE  50Ohm 4GHz Right Angle")
   (fp_text reference REF** (at 0 7.62) (layer F.SilkS)
@@ -21,8 +21,8 @@
   (fp_line (start -8 -7) (end -8 6.5) (layer F.CrtYd) (width 0.12))
   (pad 1 thru_hole circle (at 0 5.08) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 5.08) (size 1.6 1.6) (drill 0.9) (layers *.Cu *.Mask))
-  (pad "" thru_hole circle (at 5.08 0) (size 4 4) (drill 2.7) (layers *.Cu))
-  (pad "" thru_hole circle (at -5.08 0) (size 4 4) (drill 2.7) (layers *.Cu))
+  (pad "" np_thru_hole circle (at 5.08 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
+  (pad "" np_thru_hole circle (at -5.08 0) (size 2.7 2.7) (drill 2.7) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Connector_Coaxial.3dshapes/BNC_TEConnectivity_1-337543-0_Horizontal.stp
     (offset (xyz 0 28 8))
     (scale (xyz 1 1 1))
